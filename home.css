@@ -1,0 +1,38 @@
+.container{
+    width:100%;
+    height:100vh;
+    background:mintcream;
+}
+
+.navbar{
+    width:100%;
+    height:150px;
+    background-color: deepskyblue;
+    position:relative;
+    bottom:16px;
+    right:5px;
+}
+
+ul{
+    display:flex;
+    justify-content: center;
+    list-style: none;
+    position:relative;
+    top:60px;
+}
+
+a{
+    text-decoration:none;
+    margin:10px;
+    font-size:18px;
+    color:white;
+}
+
+.main{
+    width:100%;
+    height:400px;
+}
+
+p{
+    font-size:18px;
+}
